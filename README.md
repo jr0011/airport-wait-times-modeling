@@ -32,6 +32,8 @@ Outputs saved to root directory as PNG files and LaTeX tables.
 
 - `airport-wait-times-modeling.py` - Main simulation code
 - `airport.csv` - Historical passenger data
-- Generated plots and tables
+- `scenario_comparison.tex` -  Key results
+- `results_plots` - Generated plots and tables
+- `README.md`
 
 This project was done in collaboration with Tarreau Bone and Sary Abou.
